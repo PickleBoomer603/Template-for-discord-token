@@ -1,2 +1,5 @@
 # Template-for-discord-token
-Dont use this illegally
+1) go to your console
+2) Paste the code
+3) Paste the Token
+4) Click Enter
